@@ -2,7 +2,12 @@
 
 fooDeals is an e-commerce app to search for special offers and close to expired products that are free or heavily discounted. This is intended to bring both value for money to the user and help reduce food wastage. It also provides supermarkets an opportunity to generate revenue from expired or close to expiring goods that might otherwise simply be written off.
 
+![screen shot 2018-01-22 at 10 56 29](https://user-images.githubusercontent.com/30931242/35217395-0fb5ff1c-ff63-11e7-82eb-f67b8b7cb529.png)
+
+
 This application was built to be data agnostic enabling future integration with different retailers. In order to demonstrate how our app integrates with different API's we've connected fooDeals to both a mock database and the Tesco API. Where initially we had thought to focus on expiry, the absence of this data led us to instead concentrate our filters on supermarket deals and promotions. The eventual intention of this application would be to connect various retail sources providing an aggregator of discounted food products.
+
+![screen shot 2018-01-22 at 10 58 42](https://user-images.githubusercontent.com/30931242/35217448-45da4508-ff63-11e7-8a59-78c976b116b9.png)
 
 The project was driven by motivation to learn new technologies, primarily combining Node Js and React but also understanding how redux, passport strategies and mongoDB integrate in a modern stack.
 
