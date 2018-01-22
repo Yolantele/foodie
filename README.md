@@ -116,3 +116,12 @@ I want to receive email/text confirmation
 So that I can easily  ask any questions  
 I want to chat via chatbot
 ```
+
+## Team
+
+[Cristhian Da Silva](https://github.com/cristhiandas), 
+[Joe Cowton](https://github.com/joecowton),
+[Jolanta Jasiulionyte](https://github.com/Yolantele),
+[Oleg Grushetskyy](https://github.com/olegfkl),
+[Tabish Raza](https://github.com/tabrza),
+[Jamie LeMercier](https://github.com/ethicalDev)
