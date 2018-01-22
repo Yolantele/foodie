@@ -119,9 +119,9 @@ I want to chat via chatbot
 
 ## Team
 
-[Cristhian Da Silva](https://github.com/cristhiandas), 
-[Joe Cowton](https://github.com/joecowton),
-[Jolanta Jasiulionyte](https://github.com/Yolantele),
-[Oleg Grushetskyy](https://github.com/olegfkl),
-[Tabish Raza](https://github.com/tabrza),
-[Jamie LeMercier](https://github.com/ethicalDev)
+1. [Cristhian Da Silva](https://github.com/cristhiandas), 
+2. [Joe Cowton](https://github.com/joecowton),
+3. [Jolanta Jasiulionyte](https://github.com/Yolantele),
+4. [Oleg Grushetskyy](https://github.com/olegfkl),
+5. [Tabish Raza](https://github.com/tabrza),
+6. [Jamie LeMercier](https://github.com/ethicalDev)
