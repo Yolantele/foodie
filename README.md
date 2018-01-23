@@ -1,4 +1,4 @@
-# fooDeals
+# fooDeals App
 
 | [Setup](#setup) | [Tech Stack](#tech-stack) | [Challenges](#challenges) | [User Stories](#user-stories) | [Team](#team) |
 |:---------------:|:-------------------------:|:-------------------------:|:-----------------------------:|:-------------:|
@@ -57,8 +57,8 @@ We use Google OAuth to authenticate users to our application. Throughout the cou
 
 We have explored the new libraries and tested the rendering of React components on app page. Instead of using Jest, we looked react-only library for testing - Enzyme.  
 
-|[Back to the Top](#fooDeals) |
-|:---------------------------:|
+|[Back to the Top](#foodeals-app) |
+|:-------------------------------:|
 
 
 ## Challenges
@@ -85,8 +85,8 @@ We focused on presenting the user with a specific range of products - only the p
 It was challenging to create a method that sends a request to back-end, adds new value and re-renders the front-end with the new value, all while in a reactive fashion. This was overcome by taking turns at solving the problem as we progressed through the days. This seemingly simple feature was the last one to be implemented, but we feel that we approached it in more than one way to solve it, and have a better understanding a result.
 
 
-|[Back to the Top](#fooDeals) |
-|:---------------------------:|
+|[Back to the Top](#foodeals-app) |
+|:-------------------------------:|
 
 ## User Stories
 
@@ -130,8 +130,8 @@ So that I can easily  ask any questions
 I want to chat via chatbot
 ```
 
-|[Back to the Top](#fooDeals) |
-|:---------------------------:|
+|[Back to the Top](#foodeals-app) |
+|:-------------------------------:|
 
 ## Team
 
@@ -148,5 +148,5 @@ I want to chat via chatbot
 6. [Jamie LeMercier](https://github.com/ethicalDev)
 
 
-|[Back to the Top](#fooDeals) |
-|:---------------------------:|
+|[Back to the Top](#foodeals-app) |
+|:-------------------------------:|
