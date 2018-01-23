@@ -1,4 +1,5 @@
 # fooDeals
+
 | [Setup](#setup) | [Tech Stack](#tech-stack) | [Challenges](#challenges) | [User Stories](#user-stories) | [Team](#team) |
 |:---------------:|:-------------------------:|:-------------------------:|:-----------------------------:|:-------------:|
 
@@ -14,8 +15,8 @@ This application was built to be data agnostic enabling future integration with 
 
 The project was driven by motivation to learn new technologies, primarily combining Node Js and React but also understanding how redux, passport strategies and mongoDB integrate in a modern stack.
 
-### Setup |[Back to the Top](#fooDeals) | 
-          |:---------------------------:|
+
+### Setup 
 
 Fork and clone the repo then:
 ```
@@ -28,7 +29,9 @@ npm install
 
 From the project root directory run: ```npm run dev```
 
+
 ## Tech Stack
+
 
 #### MongoDB
 
@@ -52,9 +55,14 @@ We use Google OAuth to authenticate users to our application. Throughout the cou
 
 #### Mocha - Chai - Enzyme - Sinon
 
-We have explored the new libraries and tested the rendering of React components on app page. Instead of using Jest, we looked react-only library for testing - Enzyme.    
+We have explored the new libraries and tested the rendering of React components on app page. Instead of using Jest, we looked react-only library for testing - Enzyme.  
+
+|[Back to the Top](#fooDeals) |
+|:---------------------------:|
+
 
 ## Challenges
+
 
 #### Architecture of the project: Integrating backend and client servers
 
@@ -76,8 +84,9 @@ We focused on presenting the user with a specific range of products - only the p
 
 It was challenging to create a method that sends a request to back-end, adds new value and re-renders the front-end with the new value, all while in a reactive fashion. This was overcome by taking turns at solving the problem as we progressed through the days. This seemingly simple feature was the last one to be implemented, but we feel that we approached it in more than one way to solve it, and have a better understanding a result.
 
-#### Testing React components
 
+|[Back to the Top](#fooDeals) |
+|:---------------------------:|
 
 ## User Stories
 
@@ -121,11 +130,23 @@ So that I can easily  ask any questions
 I want to chat via chatbot
 ```
 
+|[Back to the Top](#fooDeals) |
+|:---------------------------:|
+
 ## Team
 
 1. [Cristhian Da Silva](https://github.com/cristhiandas), 
+
 2. [Joe Cowton](https://github.com/joecowton),
+
 3. [Jolanta Jasiulionyte](https://github.com/Yolantele),
+
 4. [Oleg Grushetskyy](https://github.com/olegfkl),
+
 5. [Tabish Raza](https://github.com/tabrza),
+
 6. [Jamie LeMercier](https://github.com/ethicalDev)
+
+
+|[Back to the Top](#fooDeals) |
+|:---------------------------:|
