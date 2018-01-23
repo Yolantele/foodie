@@ -1,4 +1,7 @@
 # fooDeals
+|[Setup](#setup)|[Tech Stack](#tech-stack)|[Challenges](#challenges)|[User Stories](#user-stories)|[Team](#team)|
+|:-------------:|:-----------------------:|:-----------------------:|:-----------------------------------------:|
+
 
 fooDeals is an e-commerce app to search for special offers and close to expired products that are free or heavily discounted. This is intended to bring both value for money to the user and help reduce food wastage. It also provides supermarkets an opportunity to generate revenue from expired or close to expiring goods that might otherwise simply be written off.
 
