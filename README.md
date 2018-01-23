@@ -14,7 +14,8 @@ This application was built to be data agnostic enabling future integration with 
 
 The project was driven by motivation to learn new technologies, primarily combining Node Js and React but also understanding how redux, passport strategies and mongoDB integrate in a modern stack.
 
-### Setup
+### Setup |[Back to the Top](#fooDeals) | 
+          |:---------------------------:|
 
 Fork and clone the repo then:
 ```
